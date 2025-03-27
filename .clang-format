@@ -1,0 +1,8 @@
+﻿---
+BasedOnStyle: Mozilla
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+InsertBraces: true
+RemoveBracesLLVM: false
+MaxEmptyLinesToKeep: 2 
+...

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="288pt"
+    height="288pt"
+    viewBox="0 0 288 288">
+<defs/>
+<path id="shape0" transform="matrix(0.579185520361991 0 0 0.579185520361991 63.540705882353 24.0014479638009)" fill="#f6f5f4" stroke="#010002" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round" d="M255.624 0L22.216 0C9.946 0 0 9.946 0 22.216L0 392.156C0 404.427 9.946 414.373 22.216 414.373L255.624 414.373C267.894 414.373 277.839 404.428 277.839 392.156L277.839 22.216C277.839 9.947 267.894 0 255.624 0Z" sodipodi:nodetypes="ccccccccc"/><g id="SVGRepo_bgCarrier" transform="matrix(0.579185520361991 0 0 0.579185520361991 24.0014479638009 24.0014479638009)" fill="none"/><path id="shape01" transform="matrix(0.579185520361991 0 0 0.579185520361991 84.07 89.4050000000001)" fill="#fe3521" stroke="#010002" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round" d="M156.009 149.486C136.759 167.411 117.127 181.428 109.579 186.624C107.74 187.89 105.605 188.523 103.47 188.523C101.335 188.523 99.2001 187.89 97.3605 186.624C89.8523 181.458 70.3153 167.512 51.0858 149.627C17.1878 118.101 0 89.7569 0 65.3874C0 29.3323 29.3331 0 65.3891 0C79.2148 0 92.3216 4.2255 103.472 12.2478C114.623 4.2255 127.73 0 141.557 0C177.613 0 206.946 29.3323 206.946 65.3874C206.941 89.7202 189.805 118.015 156.009 149.486Z" sodipodi:nodetypes="ccccccccccc"/>
+</svg>
